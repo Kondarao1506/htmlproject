@@ -1,0 +1,10 @@
+<html>
+<title>example of forms</title>
+<body>
+<form>
+USERNAME :<input type=text>
+PASSWORD :<input type=password>
+<input type=submit value="ok">
+</form>
+</body>
+</html>
